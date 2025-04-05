@@ -39,5 +39,6 @@ VITE_API_URL=http://192.168.14.223/
 2. Construisez l'application en utilisant la commande `npm run build`
 
 # Utilisateurs disponibles
+
 1. Email: `felixpicon@gmail.com` | Mot de passe: `Mot2p@sse`
 2. Email: `gabriel@gmail.com` | Mot de passe: `Mot2p$asse`
